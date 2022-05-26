@@ -1,0 +1,21 @@
+{
+  "name": "express-heroku-example",
+  "version": "1.0.0",
+  "description": "Express on Heroku example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simeg/express-heroku-example.git"
+  },
+  "author": "Simon Egersand <simon@prplcode.dev>",
+  "license": "MIT",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
